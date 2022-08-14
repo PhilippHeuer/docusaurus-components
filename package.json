@@ -1,0 +1,39 @@
+{
+  "name": "@philippheuer/docusaurus-components",
+  "version": "0.2.0",
+  "description": "A docusaurus v2 component library.",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilippHeuer/docusaurus-components.git"
+  },
+  "keywords": [
+    "docusarus"
+  ],
+  "author": "Philipp Heuer <git@philippheuer.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PhilippHeuer/docusaurus-components/issues"
+  },
+  "homepage": "https://github.com/PhilippHeuer/docusaurus-components",
+  "devDependencies": {
+    "@types/jest": "28.1.6",
+    "@types/node": "16.11.7",
+    "@types/react": "17.0.41",
+    "@types/recursive-readdir": "2.2.1",
+    "jest": "28.1.3",
+    "ts-jest": "28.0.7",
+    "typescript": "4.7.4"
+  },
+  "dependencies": {
+    "@docusaurus/theme-classic": "2.0.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
