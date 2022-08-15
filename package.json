@@ -1,6 +1,6 @@
 {
   "name": "@philippheuer/docusaurus-components",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A docusaurus v2 component library.",
   "main": "build/index.js",
   "scripts": {
