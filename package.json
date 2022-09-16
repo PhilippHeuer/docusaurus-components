@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/PhilippHeuer/docusaurus-components",
   "devDependencies": {
-    "@types/jest": "29.0.2",
+    "@types/jest": "29.0.3",
     "@types/node": "16.11.59",
     "@types/react": "17.0.50",
     "@types/recursive-readdir": "2.2.1",
